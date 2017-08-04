@@ -1,0 +1,89 @@
+tml  ,body {
+
+    color:#636b5f;
+    font-family: 'raleway',sans-serif !important ;
+    font-weight: 100;
+    margin: 0;
+}
+.full-height{
+    height: 73vh
+}
+.flex-center{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.position-ref{
+    position: relative;
+}
+.title{
+    font-size: 65px;
+    /*font-family: 'raleway',sans-serif !important ;*/
+    margin-bottom:50px;
+}
+.links > a{
+    font-family: 'raleway',sans-serif !important ;
+    color:#636b6f;
+    padding:0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+}
+.shit{
+    border-top: 1px solid #d1cfce;
+    min-height: 90%;
+    background-color: white;
+    margin-left: 220px;
+}
+.head{
+
+    background-color: #fff !important;
+    height: 100px !important;
+    border-bottom: solid 0px #ff0000;
+}
+
+.esum{
+    width: 30px
+}
+.amount{
+    width: 30px
+}
+.head{
+    height: 60px
+}
+.left{
+    width: 40%;
+    float: left;
+}
+
+.left table tr:hover{
+    background-color: #FFFFFF;
+}
+
+.head .left table {
+    margin: 15px 40px;
+}
+.head .left table th{
+    width:80px
+}
+.amount a img{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 2px 5px 2px 5px;
+}
+.right{
+    padding: 16px 22px;
+    width: 50%;
+    float: right;
+}
+.right img{
+    float: right;
+}
+.links a:hover {
+    background-color:#d4cfcd !important;
+    color:#636b6f;
+    text-decoration: none;
+    font-size: 103%;
+}
